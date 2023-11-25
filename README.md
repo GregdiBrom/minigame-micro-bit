@@ -1,2 +1,2 @@
-# minigame-micro-bit
-a minigame created with makecode.com
+#micro:bit
+a minigame for makecode.com
